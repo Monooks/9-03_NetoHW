@@ -77,6 +77,7 @@
 ### ОТВЕТ:
 ![Скриншот-2](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_2.png)
 ![Скриншот-3](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_3.png)
+![Скриншот-4](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_4.png)
 
  ---
 
@@ -92,7 +93,7 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### ОТВЕТ:
-![Скриншот-4](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_4.png)
+![Скриншот-5](https://github.com/Monooks/9-03_NetoHW/blob/main/img/9.03_5.png)
 
  ---
 
